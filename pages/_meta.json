@@ -1,0 +1,17 @@
+{
+  "index": {
+    "title": "Introduction",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "breadcrumb": false
+    }
+  },
+  "docs": {
+    "title": "Docs",
+    "type": "page"
+  },
+  "another": "Another page",
+  "features": "Features",
+  "advanced": "Advanced (A Folder)"
+}
